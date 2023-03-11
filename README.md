@@ -6,4 +6,4 @@ In my free time, I enjoy experimenting with new machine learning models and tech
 
 I'm always looking to learn more and expand my knowledge in this rapidly evolving field. If you share the same interests or have a project idea, feel free to reach out and connect on my email.
 
-
+Skills: Python / Django / Node.js / Express JS / REACT / JS / HTML / CSS / Java / C / C++ / MySQL / MongoDB
